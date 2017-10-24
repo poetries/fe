@@ -1,6 +1,6 @@
 > javascript高级程序设计3阅读笔记，更新中...
 
-- 在线阅读地址 http://blog/.poetries.top/fe
+- 在线阅读地址 http://blog.poetries.top/fe
 
 ### 笔记列表
 
